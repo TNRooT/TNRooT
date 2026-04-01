@@ -12,10 +12,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🔥 My Stats :
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TNRooT&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TNRooT&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N00N3-TN&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N00N3-TN&layout=compact&theme=dark)
 
 <!---
-TNRooT/TNRooT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+N00N3-TN/N00N3-TN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
